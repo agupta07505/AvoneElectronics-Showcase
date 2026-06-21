@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/logo.svg" alt="Avone Electronics" width="80" />
+  <img src="assets/logo.jpeg" alt="Avone Electronics" width="80" />
 </p>
 
 <h1 align="center">Avone Electronics</h1>
